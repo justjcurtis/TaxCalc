@@ -34,3 +34,4 @@ The backend is a simple REST API that takes the income as input and returns the 
 5. Enter a negative number and click the 'Calc' button to see the error message
 6. Hitting calc without changing the input field will not perform additional requests
 7. A loading indicator is shown within the button when the request is being processed
+8. The frontend is responsive and works on mobile devices as well

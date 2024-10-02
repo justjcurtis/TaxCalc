@@ -1,4 +1,4 @@
-# TaxCalc
+# TaxCalc - [Live Demo](https://justjcurtis.dev/TaxCalc/)
 TaxCalc is a simple tax calculator that calculates the tax amount based on the given income. It consists of a C# backend and a React frontend. 
 The backend is a simple REST API that takes the income as input and returns the tax amount. The frontend is a simple form that takes the income as input and displays the tax amount.
 

@@ -4,6 +4,12 @@ The backend is a simple REST API that takes the income as input and returns the 
 
 ## Installation
 
+### Prerequisites
+1. Visual Studio
+2. .NET 8.0
+3. Node.js
+4. npm or yarn
+
 ### Backend
 1. Clone the repository
 2. Open the solution in Visual Studio

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TaxCalc.Controllers.TaxCalcController",
+    "Method": "CalculateTax",
+    "RelativePath": "api/TaxCalc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TaxCalc.Models.TaxCalculationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
